@@ -1,0 +1,4 @@
+selenium==4.4.0
+webdriver-manager==3.8.3
+SpeechRecognition==3.8.1
+pydub==0.25.1
